@@ -1,8 +1,7 @@
 # Azure IaaS Enterprise Infrastructure Lab
 
 ## Overview
-This project documents a full **Azure IaaS enterprise-style infrastructure** built on  
-:contentReference[oaicite:0]{index=0}, focusing on security, high availability, and production best practices.
+This project documents a full **Azure IaaS enterprise-style infrastructure**  focusing on security, high availability, and production best practices.
 
 The lab simulates a **medium-sized company environment** with no public IPs on virtual machines, centralized security, and highly available application and database tiers.
 
